@@ -1,0 +1,21 @@
+label{
+    display:block;
+}
+form{
+    text-align:center;
+    background-color: bisque;
+    margin:0px 600px 0px 600px;
+
+}
+h1{
+    text-align: center;
+}
+#Register{
+padding:10px;;
+}
+input[type=Register]{
+    background-color:palevioletred;
+}
+input[type=Register]:hover{
+    background-color:greenyellow;
+}
